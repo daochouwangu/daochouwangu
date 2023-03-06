@@ -14,10 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 - I'm currently working on a small company.
 - I'm currently learning english, nodejs.
 - I like psychology, football.
 - I am now living in HangZhou.Zhejiang.China.
 - Reach me in wechat: liyibing_TimLi
 - A Giver.
+
+
 ![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=daochouwangu&theme=radical) 
