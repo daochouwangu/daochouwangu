@@ -8,3 +8,4 @@
 - I am now living in HangZhou.Zhejiang.China.
 - Reach me in wechat: liyibing_TimLi
 - A Giver.
+- INFP
